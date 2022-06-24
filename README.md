@@ -1,5 +1,5 @@
 # CausalRanking
-The `CausalRanking` repository contains code for a network diffusion based framework to identify significant causal anomalies and rank them. The method implemented here is described in [this paper](https://dl.acm.org/doi/pdf/10.1145/2939672.2939765).
+The `CausalRanking` repository contains code for a network diffusion based framework to identify significant causal anomalies and rank them. The method implemented here is described in [this paper](https://dl.acm.org/doi/pdf/10.1145/2939672.2939765), and won the Best Paper Runner Up Award at SIGKDD'2016.
 
 ## Citation
 
